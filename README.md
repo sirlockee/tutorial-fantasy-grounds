@@ -28,17 +28,6 @@ As vezes é útil usar o **Fantasy Grounds** em mesas presenciais. Para isso, eu
 
 É isso mesmo: você precisa de dois executáveis do Fantasy Grounds. Sugiro comprar sua "versão do mestre" (*Ultimate*, *Standard* ou até mesmo *Demo*) no Steam e baixar uma "versão do jogador" (*Demo*) direto no site. Rode a "versão do mestre" primeiro, abra sua campanha publicando-a no endereço 127.0.0.1 (endereço *localhost* do seu computador). Depois execute a "versão do jogador" entrando (*Join Game*) no mesmo endereço 127.0.0.1.
 
-
-https://www.facebook.com/sirlockee
-https://www.twitch.tv/sirlockee
-https://twitter.com/sirlockee
-https://github.com/sirlockee
-https://www.instagram.com/sirlockee
-
-sirlockee@rpg.house
-SirLockee
-sirlockee
-
 ## Roll20 vs Fantasy Grounds
 
 Bom, este é um assunto meio polêmico (tipo Star Wars vs Star Trek), mas vou deixar algumas ponderações pessoais. Antes de começar: já mestrei (e às vezes mestro) no Roll20, mas prefiro o Fantasy Grounds.
@@ -57,3 +46,15 @@ Bom, este é um assunto meio polêmico (tipo Star Wars vs Star Trek), mas vou de
 | D&D 5e | Compatível | Compatível | Empate |
 | Call of Cthulhu | Compatível | Compatível | Empate |
 | Pathfinder | Compatível | Compatível | Empate |
+
+
+## Contatos
+
+### Sir Lockee
+
+https://www.facebook.com/sirlockee
+https://www.twitch.tv/sirlockee
+https://twitter.com/sirlockee
+https://github.com/sirlockee
+https://www.instagram.com/sirlockee
+Email: sirlockee@rpg.house
