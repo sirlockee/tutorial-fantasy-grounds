@@ -53,8 +53,8 @@ Não considere este resultado como uma simples soma de pontos dos recursos. Minh
 
 ## Tutoriais no YouTube
 
-* [alt Fantasy Grounds For Beginners](https://youtu.be/BW2Y45Bjwpo)
-* [alt Fantasy Grounds for Dummies](https://www.youtube.com/playlist?list=PLTCVdZUjxeLzb4K8hX-L9zC8AsLValVPw)
+* [Fantasy Grounds For Beginners](https://youtu.be/BW2Y45Bjwpo)
+* [Fantasy Grounds for Dummies](https://www.youtube.com/playlist?list=PLTCVdZUjxeLzb4K8hX-L9zC8AsLValVPw)
 
 ## Contatos
 
