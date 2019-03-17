@@ -32,6 +32,8 @@ As vezes é útil usar o **Fantasy Grounds** em mesas presenciais. Para isso, eu
 
 Bom, este é um assunto meio polêmico (tipo Star Wars vs Star Trek), mas vou deixar algumas ponderações pessoais. Antes de começar: já mestrei (e às vezes mestro) no Roll20, mas prefiro o Fantasy Grounds.
 
+Ah sim, claro: não confunda as excelentes streams produzidas pelos mestres brasileiros no Roll20 com uma comparação entre ambas ferramentas. Também sou fã do [AzeCos](https://www.twitch.tv/azecos), do [Gruntar](https://www.twitch.tv/gruntartv), do [Tchelo e Lina](https://www.rpgplanet.com.br/), entre outros. Eles usam Roll20, mesmo assim ainda prefiro o Fantasy Grounds.
+
 | Recurso      | Roll20 | Fantasy Grounds | Voto |
 | ------------ | ------ | --------------- | :----: |
 | Interface | Mais fácil, mas é meio antiquada (feiosa) | Mais rebuscada e muito mais imersiva | FG |
@@ -47,6 +49,7 @@ Bom, este é um assunto meio polêmico (tipo Star Wars vs Star Trek), mas vou de
 | Call of Cthulhu | Compatível | Compatível | Empate |
 | Pathfinder | Compatível | Compatível | Empate |
 
+Não considere este resultado como uma simples soma de pontos dos recursos. Minha avaliação final fica mais a critério do feeling mesmo (além de jogar RPG, sou um profissional de TI). Vencedor: Fantasy Grounds.
 
 ## Contatos
 
