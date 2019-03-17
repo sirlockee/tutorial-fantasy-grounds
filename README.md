@@ -51,6 +51,11 @@ Ah sim, claro: não confunda as excelentes streams produzidas pelos mestres bras
 
 Não considere este resultado como uma simples soma de pontos dos recursos. Minha avaliação final fica mais a critério do feeling mesmo (além de jogar RPG, sou um profissional de TI). Vencedor: Fantasy Grounds.
 
+## Tutoriais no YouTube
+
+* [alt Fantasy Grounds For Beginners](https://youtu.be/BW2Y45Bjwpo)
+* [alt Fantasy Grounds for Dummies](https://www.youtube.com/playlist?list=PLTCVdZUjxeLzb4K8hX-L9zC8AsLValVPw)
+
 ## Contatos
 
 ### Sir Lockee
