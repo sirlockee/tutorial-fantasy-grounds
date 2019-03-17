@@ -53,8 +53,13 @@ Bom, este é um assunto meio polêmico (tipo Star Wars vs Star Trek), mas vou de
 ### Sir Lockee
 
 https://www.facebook.com/sirlockee
+
 https://www.twitch.tv/sirlockee
+
 https://twitter.com/sirlockee
+
 https://github.com/sirlockee
+
 https://www.instagram.com/sirlockee
+
 Email: sirlockee@rpg.house
