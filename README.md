@@ -2,7 +2,7 @@
 
 Neste repositório eu mantenho um conjunto de tutoriais relacionados ao uso do **Fantasy Grounds**, um software de tabletop para jogos de RPG, como Dungeons & Dragons, por exemplo. O Fantasy Grounds é agnóstico, ou seja, ele é capaz de funcionar de acordo com vários sistemas de RPG diferentes.
 
-![alt Sistemas do Fantasy Grounds](https://github.com/lgapontes/tutorial-fantasy-grounds/raw/master/imagens/tutorial0_img1.jpg)
+![alt Sistemas do Fantasy Grounds](https://github.com/sirlockee/tutorial-fantasy-grounds/raw/master/imagens/tutorial0_img1.jpg)
 
  Ele possui as versões *Demo*, *Standard* e *Ultimate*. Para iniciar uma campanha (como DM, Dungeon Master) publicada com o Fantasy Grounds *Ultimate*, os jogadores precisam da licença *Demo* (que é grátis). Para iniciar uma campanha compartilhada com a licença *Standard*, os jogadores também precisam de uma licença *Standard* (ou seja, eles terão que comprar o software). A licença *Demo* também permite criar campanhas de teste, publicadas para apenas um jogador que também tenha a licença *Demo*. Então, para os mestres, sugiro comprar a licença Ultimate.
 
@@ -14,11 +14,11 @@ Uma última observação: diferente do sistema **Roll20**, o Fantasy Grounds nã
 
 Baixe o software **Fantasy Grounds** em https://www.fantasygrounds.com/, ou o **Fantasy Grounds Demo** no **Steam**. Instale-o em seu computador e execute-o. Na primeira tela, você verá várias opções. Clique na opção *Join Game*.
 
-![alt Sistemas do Fantasy Grounds](https://github.com/lgapontes/tutorial-fantasy-grounds/raw/master/imagens/tutorial1_img1.jpg)
+![alt Sistemas do Fantasy Grounds](https://github.com/sirlockee/tutorial-fantasy-grounds/raw/master/imagens/tutorial1_img1.jpg)
 
 Dentro da janela principal (do lado direito), digite o nome de seu personagem (ou o nome do Jogador, conforme acordado com o DM) no campo *Username*. No campo *Host address*, digite o endereço IP que o DM informou aos jogadores (atenção: o endereço apresentado na imagem abaixo é apenas um exemplo). Por fim, clique no botão *Start*.
 
-![alt Sistemas do Fantasy Grounds](https://github.com/lgapontes/tutorial-fantasy-grounds/raw/master/imagens/tutorial1_img2.jpg)
+![alt Sistemas do Fantasy Grounds](https://github.com/sirlockee/tutorial-fantasy-grounds/raw/master/imagens/tutorial1_img2.jpg)
 
 A conexão do client (Fantasy Grounds do Jogador) com o servidor (Fantasy Grounds do DM) pode demorar alguns segundos, dependendo da sua conexão com a Internet. Um último detalhe relevante: o software pode consumir recursos da placa de vídeo que farão seu computador consumir bastante energia. Se você estiver jogando em um notebook, lembre-se de conectá-lo à tomada. Nas minhas mesas o jogador que "sair" por motivos escusos pode perder XP... kkkk
 
@@ -52,7 +52,7 @@ Bom, este é um assunto meio polêmico (tipo Star Wars vs Star Trek), mas vou de
 
 ### Sir Lockee
 
-![alt Sir Lockee](https://github.com/lgapontes/tutorial-fantasy-grounds/raw/master/imagens/sirlockee.png)
+![alt Sir Lockee](https://github.com/sirlockee/tutorial-fantasy-grounds/raw/master/imagens/sirlockee.png)
 
 * https://www.facebook.com/sirlockee
 * https://www.twitch.tv/sirlockee
