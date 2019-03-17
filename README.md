@@ -20,7 +20,7 @@ Dentro da janela principal (do lado direito), digite o nome de seu personagem (o
 
 ![alt Sistemas do Fantasy Grounds](https://github.com/sirlockee/tutorial-fantasy-grounds/raw/master/imagens/tutorial1_img2.jpg)
 
-A conexão do client (Fantasy Grounds do Jogador) com o servidor (Fantasy Grounds do DM) pode demorar alguns segundos, dependendo da sua conexão com a Internet. Um último detalhe relevante: o software pode consumir recursos da placa de vídeo que farão seu computador consumir bastante energia. Se você estiver jogando em um notebook, lembre-se de conectá-lo à tomada. Nas minhas mesas o jogador que "sair" por motivos escusos pode perder XP... kkkk
+A conexão do client (Fantasy Grounds do Jogador) com o servidor (Fantasy Grounds do DM) pode demorar alguns segundos, dependendo da sua conexão com a Internet. Um último detalhe relevante: o software pode consumir bastante energia do computador. Se você estiver jogando em um notebook, lembre-se de conectá-lo à tomada. Nas minhas mesas o jogador que "sair" por motivos escusos pode perder XP... kkkk
 
 ## Como Mestrar e Jogar no mesmo computador?
 
@@ -44,7 +44,7 @@ Ah sim, claro: não confunda as excelentes streams produzidas pelos mestres bras
 | Help | Muitos vídeos e wiki's (inclusive em Português) | Muitos vídeos e wiki's (só em Inglês) | Empate |
 | Tokens | Facilidade de obter tokens (pagos e livres) diretamente na ferramenta, sendo que há muito conteúdo grátis disponível | Facilidade de obter tokens (pagos e livres) diretamente na ferramenta, sendo que há tokens associados a material oficial dos sistemas que podem ser carregados (a maioria são pagos, neste caso) | Empate |
 | Preparar Campanha | Ok, bem legal. Só acho chato o vai e volta de janelas e popups para configurar tudo. Não é muito intuitivo (para novos usuários) | Excelente. Os botões laterais são bem intuitivos e auxiliam muito na preparação da campanha | FG |
-| Loot de Itens | Manual. Digo, você pode preparar handouts ou documentos para auxiliar, mas deve ser repassado para as planilhas dos personagens um a um. | Excelente. Há um mecanismo de distribuição bem inteligente e rápido. Exige preparação prévia, mas na hora da aventura é muito rápido distribuir os itens (que é o que importa). | FG |
+| Loot de Itens | Manual. Digo, você pode preparar handouts ou documentos para auxiliar, mas deve ser repassado para as planilhas dos personagens um a um. | Excelente. Há um mecanismo de distribuição bem inteligente e rápido (Parcels). Exige preparação prévia, mas na hora da aventura é muito rápido distribuir os itens (que é o que importa). | FG |
 | D&D 5e | Compatível | Compatível | Empate |
 | Call of Cthulhu | Compatível | Compatível | Empate |
 | Pathfinder | Compatível | Compatível | Empate |
