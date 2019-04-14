@@ -12,6 +12,8 @@ Uma última observação: diferente do sistema **Roll20**, o Fantasy Grounds nã
 
 ## Como ingressar em uma campanha
 
+Preguiça de ler? Veja o vídeo deste tópico: https://youtu.be/2hPwUxDk0XQ
+
 Baixe o software **Fantasy Grounds** em https://www.fantasygrounds.com/, ou o **Fantasy Grounds Demo** no **Steam**. Instale-o em seu computador e execute-o. Na primeira tela, você verá várias opções. Clique na opção *Join Game*.
 
 ![alt Sistemas do Fantasy Grounds](https://github.com/sirlockee/tutorial-fantasy-grounds/raw/master/imagens/tutorial1_img1.jpg)
