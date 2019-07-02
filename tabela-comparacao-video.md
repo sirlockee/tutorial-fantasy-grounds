@@ -5,7 +5,7 @@
 | Interface | Mais fácil, mas é meio antiquada (feiosa) | Mais rebuscada e muito mais imersiva |
 | Mapas | Configuração simples, porém um pouco chato para alinhar a grid (se houver) do mapa com a do Roll20. Possui os recursos de Fog of War (mostra o mapa conforme o DM vai liberando) e Dynamic Lighting (mostra com perspectiva do personagem) | Configuração simples, com alinhamento "desenhado" sobre o mapa. Possui Fog of War (mostra o mapa conforme o DM vai liberando), mas NÃO possui Dynamic Lighting (mostra com perspectiva do personagem). |
 | Dynamic Lighting | Sim (na versão assinada) | Não. Está em desenvolvimento. |
-| Fog of War | Sim. É um pouco chato alinhar a grid com o mapa | Sim. A grid é gerada a partir de um quadrado desenhado sobre o mapa |
+| Fog of War | Sim. | Sim. |
 | Licenciamento | Versão *Base* é muito boa, porém sem o Dynamic Lighting (ponto forte do Roll20). A versão *Plus* possui assinatura mensal de $4,99 e anual de $49,99. A versão *Pro* possui assinatura mensal de $9,99 e anual de $99,99. Não há uma modalidade de compra única. | No site oficial, é possível assinar por $3,99 (*Standard*) ou $9,99 (*Ultimate*) ou comprar uma única vez (sem assinatura) por $39 (*Standard*) ou $149 (*Ultimate*). Também é possível comprar pelo Steam. Os preços variam, mas a compra única da *Ultimate* está na faixa de R$ 250,00 |
 | Help | Muitos vídeos e wiki's (inclusive em Português) | Muitos vídeos e wiki's (só em Inglês) |
 | Tokens | Facilidade de obter tokens (pagos e livres) diretamente na ferramenta, sendo que há muito conteúdo grátis disponível | Facilidade de obter tokens (pagos e livres) diretamente na ferramenta, sendo que há tokens associados a material oficial dos sistemas que podem ser carregados (a maioria são pagos, neste caso) |
